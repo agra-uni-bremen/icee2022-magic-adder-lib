@@ -4,6 +4,7 @@ Artifacts of the paper: "Investigating Various Adder Architectures for Digital I
 ## Folder Structure
 
 adder_aig: Contains the Adder Files in the .aig format
+
 simpler_mapping: Contains the mapping obtained using the [SIMPLER-MAGIC](https://github.com/RotemBenHur/SIMPLER-MAGIC) tool
 
 ## Citation
